@@ -1,0 +1,13 @@
+Documentation  For Food-Delivery  Project : 
+
+You Have to Make template of this website according  to the screenshots  using only pure  html and css  not used bootstrap and other librarys , and also make it responsive for pc and mobile 
+
+Color  Codes For Websites : 
+Button-background-color,Location-icon-color : #F66754
+Green : #119477
+Black : #23212E
+Gray: #5E5C66
+White: #fff
+Footer-Font-Color(white) : #E1DFE8
+Footer-Font-Color-For-Title (Grey): #716D82 
+Footer-Background-color :#212529
